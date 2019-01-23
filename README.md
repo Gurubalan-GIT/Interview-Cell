@@ -1,5 +1,5 @@
 # Interview-Cell
-Set of Placement-driven coding questions done in multiple programming languages; Java,C++,C,Python and so on. This is a 3 Phase program each consisting of 10 levels under which there a number of questions solved. 
+Set of Placement-driven coding questions done in multiple programming languages; Java,C++,C,Python and so on. This is a 3 Phase program each consisting of a number of levels under which there are a number of questions solved. 
 
 ## Instructions 
 - C/C++
