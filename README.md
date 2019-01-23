@@ -1,4 +1,4 @@
-# Interview-Cell
+# Interview-Cell [![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Gurubalan-GIT/Interview-Cell) [![](https://img.shields.io/github/issues/Gurubalan-GIT/Interview-Cell.svg)](https://github.com/Gurubalan-GIT/Interview-Cell) ![](https://img.shields.io/github/license/Gurubalan-GIT/Interview-Cell.svg)
 Set of Placement-driven coding questions done in multiple programming languages; Java,C++,C,Python and so on. This is a 3 Phase program each consisting of a number of levels under which there are a number of questions solved. 
 
 ## Instructions 
@@ -19,6 +19,10 @@ Set of Placement-driven coding questions done in multiple programming languages;
   - To execute a script file run `python filename.py`.
 
 ### License 
-[MIT-License](/LICENSE)
+[MIT-License](/LICENSE).
+
+```
+Pull requests are accepted.
+```
 
 _Thank you for stopping by._
