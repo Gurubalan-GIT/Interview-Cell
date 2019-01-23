@@ -18,4 +18,7 @@ Set of Placement-driven coding questions done in multiple programming languages;
   - Set the path and enter `python` in cmd to enter the python shell.
   - To execute a script file run `python filename.py`.
 
+### License 
+[MIT-License](/LICENSE)
+
 _Thank you for stopping by._
