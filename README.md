@@ -13,6 +13,7 @@ Set of Placement-driven coding questions done in multiple programming languages;
   - _**Disclaimer: JDK 11 cannot be used for professional use. Stick with JDK 8 for avoiding your application from getting stripped down.**_
   - Setting path is easy as this - `C:\Guru> set path=%path%;C:\Program Files\Java\jdk1.8.0_101\bin`. _Run this in cmd._
   - Open command line and run `C:\Guru> javac filename.java` and `C:\Guru> java filename`.
+  - _Important: Rename `.java` files to the respective class names `(Having PSVM)` or vice-versa for compilation._
 - Python 
   - Install [Python](https://www.python.org/downloads/) for _Windows._
   - Set the path and enter `python` in cmd to enter the python shell.
